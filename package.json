@@ -1,6 +1,6 @@
 {
-  "name": "react-snapshot",
-  "version": "1.3.0",
+  "name": "@merchx-v2/react-snapshot",
+  "version": "1.3.2",
   "description": "",
   "main": "lib/index.js",
   "repository": "geelen/react-snapshot",
